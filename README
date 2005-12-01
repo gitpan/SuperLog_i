@@ -1,0 +1,10 @@
+* Copiar el archivo ssw2coso.pl al directorio /usr/local/ssw2coso/ (crearlo
+si no existe).
+
+* Instalar el paquete Time::HiRes
+
+* Copiar el archivo Log.pm a /usr/lib/perl5/site_perl/5.8.3/i386-linux-thread-multi
+
+* Cronear cada 1 hora al script CDR_COLLECT_SSI02.sh
+
+* gl! 
